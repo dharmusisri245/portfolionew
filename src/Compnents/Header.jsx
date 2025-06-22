@@ -30,7 +30,7 @@ const Header = () => {
             {/* Logo/Brand */}
             <div className="flex items-center">
               <div className="text-gray-800 text-xl font-bold tracking-tight">
-                <span className="text-blue-600"></span> Portfolio
+                <span className="text-blue-600">Portfolio</span>
               </div>
             </div>
 
