@@ -17,7 +17,7 @@ const skillImages = [
   "/static/aws.png",
   "/static/netlify.png",
   "/static/sql.png",
-  "/static/.png",
+  // "/static/.png",
   // "/static/vercel.png",
   // "/static/vercel.png",
 ];
@@ -39,7 +39,7 @@ const Skills = () => {
               <img
                 src={src}
                 alt={`skill-${index}`}
-                className="w-25 h-20 object-contain md:w-24 sm:w-16 "
+                className="w-35 h-25 object-contain md:w-24 sm:w-16 "
               />
             </div>
           ))}
