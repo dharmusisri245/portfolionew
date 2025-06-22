@@ -1,4 +1,3 @@
-
 import Layout from "../Compnents/Layout";
 import React from "react";
 
@@ -19,8 +18,8 @@ const skillImages = [
   "/static/netlify.png",
   "/static/sql.png",
   "/static/.png",
-  "/static/vercel.png",
-  "/static/vercel.png",
+  // "/static/vercel.png",
+  // "/static/vercel.png",
 ];
 
 const Skills = () => {
